@@ -57,3 +57,8 @@ Informatics and Computer Engineering (09. 03. 01);
 - __Courses:__
   - [HTML Academy](https://www.htmlacademy.ru)
   - [FreeCodeCamp](https://www.freecodecamp.org)
+
+## __Languages__
+
+  - __Russian__ - native speaker.
+  - __English__ - A2.
