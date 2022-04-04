@@ -22,3 +22,28 @@ My task is to improve the skills of creating websites and achieve high results.
 - BEM methodology
 - Figma
 - Editors: VSCode
+
+## __Code Example__
+Write a function that accepts a square matrix (N x N 2D array) and returns the determinant of the matrix.
+
+```
+function determinant(m) {
+
+    if (m.length == 1) {
+        return Number(m)
+    }
+
+    let det = 0;
+
+    for (let i = 0; i < m.length; i++) {
+        if (m.length > 2) {
+            det += ((-1) ** i) * m[0][i] * determinant(m.slice(1).map(item => item.slice(0, i).concat(item.slice(i + 1))))
+        } else {
+            det = m[0][0] * m[1][1] - m[0][1] * m[1][0];
+            break;
+        }
+    }
+
+    return det;
+};
+```
