@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kadkinroman.github.io/rsschool-cv/cv
