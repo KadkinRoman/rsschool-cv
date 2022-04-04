@@ -47,3 +47,13 @@ function determinant(m) {
     return det;
 };
 ```
+
+## __Education__ 
+
+- __University:__ Saint Petersburg State University, 
+Aerospace Instrumentation (SPb GUAP) (June 2019), 
+Informatics and Computer Engineering (09. 03. 01);
+
+- __Courses:__
+  - [HTML Academy](https://www.htmlacademy.ru)
+  - [FreeCodeCamp](https://www.freecodecamp.org)
